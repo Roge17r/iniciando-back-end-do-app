@@ -1,6 +1,5 @@
 import { EntityRepository, Repository } from 'typeorm';
 
-import { O_TRUNC } from 'constants';
 import Transaction from '../models/Transaction';
 
 interface Balance {
